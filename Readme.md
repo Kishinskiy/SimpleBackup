@@ -1,3 +1,5 @@
+# DEPERCATED  See New Backup Tool to https://github.com/Kishinskiy/PythonBackupSystem
+
 # Simple Backup
 
 ## Программа для копирования файлов (Пример)
